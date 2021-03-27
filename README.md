@@ -1,6 +1,11 @@
 # drawing
 
-A new Flutter project.
+youtube: https://www.youtube.com/watch?v=D5YL32Ej1kc
+
+플러터 그림판 예제입니다.
+Flutter drawing example
+
+(change color, erase, change line size ...)
 
 ## Getting Started
 
